@@ -12,3 +12,5 @@ The script works best when launched as admin
 enjoy
 
 # I am Not responsible for anything that happens to your game account using this, as it is considered a cheat
+
+This also requires strafing skill it does not strafe for you and is completely external, which means it does not write game memory and jump perfectly
